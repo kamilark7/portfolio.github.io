@@ -136,6 +136,30 @@ w = "780"
 h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
+title = "Miscellaneous"
+url = "#"
+description = ""
+image = "images/PlantsRender.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Clock"
+url = "#"
+description = ""
+image = "images/MakeUpRender.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Bottles"
+url = "#"
+description = ""
+image = "images/MakeUpRender.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
 title = "Original Character"
 url = "#"
 description = "My original character in 3D."
