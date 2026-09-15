@@ -206,10 +206,92 @@ h = "518"
 title = "Pixel-Art"
 
 [[languages.en.params.subprojects.groups.list]]
-title = ""
+title = "Profile picture"
+url = "#"
+description = "Animated profile picture I made of myself."
+image = "images/MeIconAnim.gif"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Ephemeral"
 url = "#"
 description = ""
-image = "images/cassette2.jpg"
+image = "images/ephe2.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Mermaid"
+url = "#"
+description = "Portrait pictures for the mermaid character from the game 'Stardew Valley' in the game's style."
+image = "images/ephe2.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Ephemeral"
+url = "#"
+description = "Item icons for a game project."
+image = "images/eb.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Crystal Storm"
+url = "#"
+description = ""
+image = "images/crystal_storm.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Space Union"
+url = "#"
+description = "This is a commissioned icon for a Minecraft server for Halloween."
+image = "images/unionspacehalloween3.png
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups]]
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Main Menu"
+url = "#"
+description = ""
+image = "images/menu.png
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Bedroom"
+url = "#"
+description = ""
+image = "images/bedroom.png
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Storage"
+url = "#"
+description = ""
+image = "images/storage.png
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Open World"
+url = "#"
+description = "This is from the game about lampheads. All assets made by me."
+image = "images/world.png
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Lighthouse"
+url = "#"
+description = ""
+image = "images/lighthouse.png
 w = "780"
 h = "518"
 
