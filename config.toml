@@ -249,7 +249,7 @@ h = "518"
 title = "Space Union"
 url = "#"
 description = "This is a commissioned icon for a Minecraft server for Halloween."
-image = "images/unionspacehalloween3.png
+image = "images/unionspacehalloween3.png"
 w = "780"
 h = "518"
 
@@ -259,7 +259,7 @@ h = "518"
 title = "Main Menu"
 url = "#"
 description = ""
-image = "images/menu.png
+image = "images/menu.png"
 w = "780"
 h = "518"
 
@@ -267,7 +267,7 @@ h = "518"
 title = "Bedroom"
 url = "#"
 description = ""
-image = "images/bedroom.png
+image = "images/bedroom.png"
 w = "780"
 h = "518"
 
@@ -275,7 +275,7 @@ h = "518"
 title = "Storage"
 url = "#"
 description = ""
-image = "images/storage.png
+image = "images/storage.png"
 w = "780"
 h = "518"
 
@@ -283,7 +283,7 @@ h = "518"
 title = "Open World"
 url = "#"
 description = "This is from the game about lampheads. All assets made by me."
-image = "images/world.png
+image = "images/world.png"
 w = "780"
 h = "518"
 
@@ -291,7 +291,7 @@ h = "518"
 title = "Lighthouse"
 url = "#"
 description = ""
-image = "images/lighthouse.png
+image = "images/lighthouse.png"
 w = "780"
 h = "518"
 
