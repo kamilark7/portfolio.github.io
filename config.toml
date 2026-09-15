@@ -1,0 +1,451 @@
+# Page settings
+
+baseURL = "https://kamilark7.github.io/portfolio.github.io/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+disableKinds = ["taxonomy", "term", "rss", "sitemap", "404"]
+theme = "hugo-theme-doors"
+
+# Settings shared by all languages
+[params]
+googleTagManager = "GTM-xxxxxxxx"
+
+[params.metadata]
+ogImage = "images/work1.jpg"
+twitterSite = "@username"
+
+# English
+[languages.en]
+locale = "en-US"
+label = "English"
+title = "Portfolio"
+weight = 1
+
+[languages.en.params]
+languageSelector = "Language"
+
+[languages.en.params.metadata]
+description = "A collection of my works."
+
+[languages.en.params.subprojects]
+
+[[languages.en.params.subprojects.groups]]
+title = "Digital Art"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Cathy"
+url = "#"
+description = "I've seen a lot of people on the internet draw anthropomorphic animal characters and I got inspired and decided to try it myself. I really like how it turned out and I think it's one of my best works."
+image = "/images/cathy.png"
+w = "780"
+h = "522"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Polaroids"
+url = "#"
+description = "This artwork is a compilation of cherished memories."
+image = "/images/Polaroid.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "New Year's"
+url = "#"
+description = "A self-portrait with a winter theme. First painted in grayscale, then a gradient map was applied."
+image = "/images/nwm.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Milina"
+url = "#"
+description = "This is a portrait of a character from one of the games I work on."
+image = "/images/milina.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Poster"
+url = "#"
+description = "A poster featuring my original character in the style of the game 'Roblox'."
+image = "/images/mant1shka_poster.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Heat Abnormal"
+url = "#"
+description = "An artwork featuring my original character that was inspired by a song named 'Heat Abnormal'."
+image = "/images/mati_abnormal2.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Ernel"
+url = "#"
+description = "First of the character concept arts I did for a video game about lampheads."
+image = "/images/Ernel.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Ark"
+url = "#"
+description = "Second of the character concept arts I did for a video game about lampheads."
+image = "/images/Ark.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Lucy"
+url = "#"
+description = "Third of the character concept arts I did for a video game about lampheads."
+image = "/images/Lucy.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups]]
+title = "3D Modeling"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Witch Pack"
+url = "#"
+description = "This is my most recent 3D modeling project, which is still in progress. It's a pack of witch-themed assets."
+image = "images/witchrender3.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Plants"
+url = "#"
+description = "Props I made for a game project."
+image = "images/PlantsRender.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Make Up"
+url = "#"
+description = "More props."
+image = "images/MakeUpRender.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Original Character"
+url = "#"
+description = "My original character in 3D."
+image = "images/ma3d.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Knock Knock"
+url = "#"
+description = "A little animation I made with it."
+image = "images/knocknock.gif"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups]]
+title = "Drawings & Paintings"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Sky Kids"
+url = "#"
+description = "Fanart of the game 'Sky: Children of the Light' in watercolor."
+image = "images/skykids.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Masks"
+url = "#"
+description = "This watercolor artwork draws inspiration from the motifs of Japanese geisha and oni."
+image = "images/Geisha.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Skull"
+url = "#"
+description = "Watercolor."
+image = "images/skull.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Midnight"
+url = "#"
+description = "This is a painting of a window view done in acrylics."
+image = "images/window.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Lover Cranes"
+url = "#"
+description = "Pencil drawing focused on capturing form and shadows."
+image = "images/Cranes.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = "Calavera"
+url = "#"
+description = "I personally really like this drawing and I'm proud of it even though it was made a long time ago."
+image = "images/piper.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups]]
+title = "Pixel-Art"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/cassette2.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups]]
+title = "Photography"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/cassette2.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/cassette.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/chiken.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/train.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/view.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/water.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/mountain.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/snail.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/flies.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/busstop.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/crow.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = "Original image."
+image = "images/sign.jpg"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = "Editing examples."
+image = "images/editV1.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/editV2.png"
+w = "780"
+h = "518"
+
+[[languages.en.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/editV3.png"
+w = "780"
+h = "518"
+
+[languages.en.params.contact]
+position = "top"
+avatar = "/images/SLONIZMHAHAHAHA.png"
+name = "Kamila Kadyrova"
+description = "Hello! You can call me Kamila. I'm an artist with a wide range of skills. I draw and paint (both digitally and traditionally) and work with 3D modeling, photography, music, graphic design, and much more."
+
+[[languages.en.params.contact.links]]
+label = "Email"
+url = "mailto:kamila.rk7@gmail.com"
+icon = "email"
+
+[languages.en.params.footer]
+
+# Japanese
+[languages.ja]
+locale = "ja-JP"
+label = "日本語"
+title = "Hugoテーマ Doors"
+copyright = "© Hugoテーマ Doors"
+weight = 2
+
+[languages.ja.params]
+description = ["作品へのリンク集です。", "気になる作品を見つけてください。"]
+languageSelector = "言語"
+
+[languages.ja.params.metadata]
+description = "作品へのリンク集です。"
+
+[languages.ja.params.projects]
+
+[[languages.ja.params.projects.list]]
+title = "作品名1"
+url = "#"
+description = "作品の概要"
+image = "images/work1.jpg"
+w = "780"
+h = "518"
+
+[languages.ja.params.subprojects]
+
+[[languages.ja.params.subprojects.list]]
+title = "作品2"
+url = "#"
+description = "作品の説明文"
+image = "images/work2.jpg"
+w = "780"
+h = "522"
+
+[[languages.ja.params.subprojects.list]]
+title = "作品3"
+url = "#"
+description = "作品の説明文"
+image = "images/work3.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.list]]
+title = "作品4"
+url = "#"
+description = "作品の説明文"
+image = "images/work4.jpg"
+w = "780"
+h = "518"
+
+[languages.ja.params.contact]
+avatar = "images/work4.jpg"
+name = "山田 花子"
+description = "ご連絡はメールまたはSNSからお願いします。"
+
+[[languages.ja.params.contact.links]]
+label = "X"
+url = "#"
+icon = "x"
+
+[[languages.ja.params.contact.links]]
+label = "LinkedIn"
+url = "#"
+icon = "linkedin"
+
+[[languages.ja.params.contact.links]]
+label = "Instagram"
+url = "#"
+icon = "instagram"
+
+[[languages.ja.params.contact.links]]
+label = "YouTube"
+url = "#"
+icon = "youtube"
+
+[[languages.ja.params.contact.links]]
+label = "note"
+url = "#"
+icon = "note"
+
+[[languages.ja.params.contact.links]]
+label = "ニュース"
+url = "#"
+icon = "images/icons/newspaper.svg"
+
+[[languages.ja.params.contact.links]]
+label = "メール"
+url = "mailto:hanako@example.com"
+icon = "email"
+
+[languages.ja.params.footer]
+
+[[languages.ja.params.footer.links]]
+label = "お問い合わせ"
+url = "/ja/contact/"
+
+[[languages.ja.params.footer.links]]
+label = "利用規約"
+url = "/ja/terms/"
+
+[[languages.ja.params.footer.links]]
+label = "プライバシーポリシー"
+url = "/ja/privacy/"

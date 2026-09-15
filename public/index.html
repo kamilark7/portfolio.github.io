@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Portfolio</title>
+    <script data-language-detection>
+      (function () {
+        "use strict";
+
+        var storageKey = "hugo-theme-doors-language";
+        var defaultUrl = "/portfolio.github.io/en/";
+        var availableLanguages = [
+            {
+              language: "en",
+              locale: "en-US",
+              url: "/portfolio.github.io/en/"
+            },
+            {
+              language: "ja",
+              locale: "ja-JP",
+              url: "/portfolio.github.io/ja/"
+            }
+        ];
+
+        function normalize(language) {
+          return language.toLowerCase().replace(/_/g, "-");
+        }
+
+        function findLanguage(preferences) {
+          var normalizedPreferences = preferences.map(normalize);
+
+          for (var preferenceIndex = 0; preferenceIndex < normalizedPreferences.length; preferenceIndex += 1) {
+            var preference = normalizedPreferences[preferenceIndex];
+
+            for (var languageIndex = 0; languageIndex < availableLanguages.length; languageIndex += 1) {
+              var language = availableLanguages[languageIndex];
+
+              if (normalize(language.language) === preference || normalize(language.locale) === preference) {
+                return language;
+              }
+            }
+
+            var baseLanguage = preference.split("-")[0];
+
+            for (var fallbackIndex = 0; fallbackIndex < availableLanguages.length; fallbackIndex += 1) {
+              var fallbackLanguage = availableLanguages[fallbackIndex];
+
+              if (
+                normalize(fallbackLanguage.language).split("-")[0] === baseLanguage ||
+                normalize(fallbackLanguage.locale).split("-")[0] === baseLanguage
+              ) {
+                return fallbackLanguage;
+              }
+            }
+          }
+
+          return null;
+        }
+
+        function readPreference() {
+          try {
+            return window.localStorage.getItem(storageKey);
+          } catch (error) {
+            return null;
+          }
+        }
+
+        function savePreference(language) {
+          try {
+            window.localStorage.setItem(storageKey, language);
+          } catch (error) {
+            
+          }
+        }
+
+        var preferredLanguage = findLanguage([readPreference() || ""]);
+
+        if (!preferredLanguage) {
+          var browserLanguages = window.navigator.languages && window.navigator.languages.length
+            ? window.navigator.languages
+            : [window.navigator.language || ""];
+
+          preferredLanguage = findLanguage(browserLanguages);
+        }
+
+        if (preferredLanguage) {
+          savePreference(preferredLanguage.language);
+        }
+
+        window.location.replace(preferredLanguage ? preferredLanguage.url : defaultUrl);
+      })();
+    </script>
+    <noscript><meta http-equiv="refresh" content="0; url=/portfolio.github.io/en/"></noscript>
+  </head>
+  <body>
+    <p>
+        <a href="/portfolio.github.io/en/">English</a>
+        <a href="/portfolio.github.io/ja/">日本語</a>
+    </p>
+  </body>
+</html>
