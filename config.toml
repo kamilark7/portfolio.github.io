@@ -252,7 +252,7 @@ h = "518"
 title = ""
 url = "#"
 description = ""
-image = "images/view.jpg"
+image = "images/view.JPG"
 w = "780"
 h = "518"
 
@@ -260,7 +260,7 @@ h = "518"
 title = ""
 url = "#"
 description = ""
-image = "images/water.jpg"
+image = "images/water.JPG"
 w = "780"
 h = "518"
 
@@ -268,7 +268,7 @@ h = "518"
 title = ""
 url = "#"
 description = ""
-image = "images/mountain.jpg"
+image = "images/mountain.JPG"
 w = "780"
 h = "518"
 
@@ -276,7 +276,7 @@ h = "518"
 title = ""
 url = "#"
 description = ""
-image = "images/snail.jpg"
+image = "images/snail.JPG"
 w = "780"
 h = "518"
 
@@ -292,7 +292,7 @@ h = "518"
 title = ""
 url = "#"
 description = ""
-image = "images/busstop.jpg"
+image = "images/busstop.JPG"
 w = "780"
 h = "518"
 
@@ -304,13 +304,18 @@ image = "images/crow.jpg"
 w = "780"
 h = "518"
 
+[[languages.en.params.subprojects.groups]]
+title = "Photo Editing"
+
 [[languages.en.params.subprojects.groups.list]]
 title = ""
 url = "#"
 description = "Original image."
-image = "images/sign.jpg"
+image = "images/sign.JPG"
 w = "780"
 h = "518"
+
+[[languages.en.params.subprojects.groups]]
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
