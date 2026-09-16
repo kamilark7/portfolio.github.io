@@ -109,6 +109,14 @@ image = "images/Lucy.png"
 w = "780"
 h = "518"
 
+[[languages.en.params.subprojects.groups.list]]
+title = "Mireska"
+url = "#"
+description = "Fanart of a character from one of my favorite games."
+image = "images/mireska.png"
+w = "780"
+h = "518"
+
 [[languages.en.params.subprojects.groups]]
 title = "3D Modeling"
 
@@ -444,66 +452,3 @@ url = "mailto:kamila.rk7@gmail.com"
 icon = "email"
 
 [languages.en.params.footer]
-
-# Japanese
-[languages.ja]
-locale = "ja-JP"
-label = "日本語"
-title = "ポートフォリオ"
-copyright = "© Kamila Kadyrova"
-weight = 1
-
-[languages.ja.params]
-description = ["作品へのリンク集です。", "気になる作品を見つけてください。"]
-languageSelector = "言語"
-
-[languages.ja.params.metadata]
-description = "作品へのリンク集です。"
-
-[languages.ja.params.projects]
-
-[[languages.ja.params.projects.list]]
-title = "作品名1"
-url = "#"
-description = "作品の概要"
-image = "images/work1.jpg"
-w = "780"
-h = "518"
-
-[languages.ja.params.subprojects]
-
-[[languages.ja.params.subprojects.list]]
-title = "作品2"
-url = "#"
-description = "作品の説明文"
-image = "images/work2.jpg"
-w = "780"
-h = "522"
-
-[[languages.ja.params.subprojects.list]]
-title = "作品3"
-url = "#"
-description = "作品の説明文"
-image = "images/work3.jpg"
-w = "780"
-h = "518"
-
-[[languages.ja.params.subprojects.list]]
-title = "作品4"
-url = "#"
-description = "作品の説明文"
-image = "images/work4.jpg"
-w = "780"
-h = "518"
-
-[languages.ja.params.contact]
-avatar = "images/work4.jpg"
-name = "カミラ"
-description = "私は幅広いスキルを持つアーティストです。イラストや絵画（デジタルと伝統的な手法の両方）のほか、3Dモデリング、写真、ゲームデザインなど、さまざまな分野に取り組んでいます。"
-
-[[languages.ja.params.contact.links]]
-label = "メール"
-url = "mailto:kamila.rk7@gmail.com"
-icon = "email"
-
-[languages.ja.params.footer]
