@@ -23,6 +23,7 @@ twitterSite = "@username"
 locale = "en-US"
 label = "English"
 title = "Portfolio"
+copyright = "© Kamila Kadyrova"
 weight = 1
 
 [languages.en.params]
@@ -139,7 +140,7 @@ h = "518"
 title = "Miscellaneous"
 url = "#"
 description = ""
-image = "images/miscRender.png"
+image = "images/MiscRender2.png"
 w = "780"
 h = "518"
 
@@ -155,7 +156,7 @@ h = "518"
 title = "Bottles"
 url = "#"
 description = ""
-image = "images/Bottles.jpg"
+image = "images/Bottles2.jpg"
 w = "780"
 h = "518"
 
@@ -398,7 +399,7 @@ h = "518"
 title = ""
 url = "#"
 description = ""
-image = "images/busstop.JPG"
+image = "images/busstop2.JPG"
 w = "780"
 h = "518"
 
@@ -451,7 +452,7 @@ h = "518"
 position = "top"
 avatar = "images/SLONIZMHAHAHAHA.png"
 name = "Kamila Kadyrova"
-description = "Hello! You can call me Kamila. I'm an artist with a wide range of skills. I draw and paint (both digitally and traditionally) and work with 3D modeling, photography, music, graphic design, and much more."
+description = "Hello! You can call me Kamila. I'm an artist with a wide range of skills. I draw and paint (both digitally and traditionally) and work with 3D modeling, photography, game design, and much more."
 
 [[languages.en.params.contact.links]]
 label = "Email"
@@ -464,8 +465,8 @@ icon = "email"
 [languages.ja]
 locale = "ja-JP"
 label = "日本語"
-title = "Hugoテーマ Doors"
-copyright = "© Hugoテーマ Doors"
+title = "ポートフォリオ"
+copyright = "© Kamila Kadyrova"
 weight = 2
 
 [languages.ja.params]
@@ -513,54 +514,12 @@ h = "518"
 
 [languages.ja.params.contact]
 avatar = "images/work4.jpg"
-name = "山田 花子"
-description = "ご連絡はメールまたはSNSからお願いします。"
-
-[[languages.ja.params.contact.links]]
-label = "X"
-url = "#"
-icon = "x"
-
-[[languages.ja.params.contact.links]]
-label = "LinkedIn"
-url = "#"
-icon = "linkedin"
-
-[[languages.ja.params.contact.links]]
-label = "Instagram"
-url = "#"
-icon = "instagram"
-
-[[languages.ja.params.contact.links]]
-label = "YouTube"
-url = "#"
-icon = "youtube"
-
-[[languages.ja.params.contact.links]]
-label = "note"
-url = "#"
-icon = "note"
-
-[[languages.ja.params.contact.links]]
-label = "ニュース"
-url = "#"
-icon = "images/icons/newspaper.svg"
+name = "カミラ"
+description = "私は幅広いスキルを持つアーティストです。イラストや絵画（デジタルと伝統的な手法の両方）のほか、3Dモデリング、写真、ゲームデザインなど、さまざまな分野に取り組んでいます。"
 
 [[languages.ja.params.contact.links]]
 label = "メール"
-url = "mailto:hanako@example.com"
+url = "mailto:kamila.rk7@gmail.com"
 icon = "email"
 
 [languages.ja.params.footer]
-
-[[languages.ja.params.footer.links]]
-label = "お問い合わせ"
-url = "/ja/contact/"
-
-[[languages.ja.params.footer.links]]
-label = "利用規約"
-url = "/ja/terms/"
-
-[[languages.ja.params.footer.links]]
-label = "プライバシーポリシー"
-url = "/ja/privacy/"
