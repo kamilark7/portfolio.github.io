@@ -137,22 +137,6 @@ w = "780"
 h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
-title = "Miscellaneous"
-url = "#"
-description = ""
-image = "images/MiscRender2.png"
-w = "780"
-h = "518"
-
-[[languages.en.params.subprojects.groups.list]]
-title = "Clock"
-url = "#"
-description = ""
-image = "images/clock.png"
-w = "780"
-h = "518"
-
-[[languages.en.params.subprojects.groups.list]]
 title = "Bottles"
 url = "#"
 description = ""
@@ -467,7 +451,7 @@ locale = "ja-JP"
 label = "日本語"
 title = "ポートフォリオ"
 copyright = "© Kamila Kadyrova"
-weight = 2
+weight = 1
 
 [languages.ja.params]
 description = ["作品へのリンク集です。", "気になる作品を見つけてください。"]
