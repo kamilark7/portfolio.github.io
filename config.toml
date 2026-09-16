@@ -39,7 +39,7 @@ title = "Digital Art"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Cathy"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/cathy.png"
 description = "I've seen a lot of people on the internet draw anthropomorphic animal characters and I got inspired and decided to try it myself. I really like how it turned out and I think it's one of my best works."
 image = "images/cathy.png"
 w = "780"
@@ -47,7 +47,7 @@ h = "522"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Polaroids"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Polaroid.png"
 description = "This artwork is a compilation of cherished memories."
 image = "images/Polaroid.png"
 w = "780"
@@ -55,7 +55,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "New Year's"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/nwm.png"
 description = "A self-portrait with a winter theme. First painted in grayscale, then a gradient map was applied."
 image = "images/nwm.png"
 w = "780"
@@ -63,7 +63,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Milina"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/milina.png"
 description = "This is a portrait of a character from one of the games I work on."
 image = "images/milina.png"
 w = "780"
@@ -71,7 +71,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Poster"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/mant1shka_poster.png"
 description = "A poster featuring my original character in the style of the game 'Roblox'."
 image = "images/mant1shka_poster.png"
 w = "780"
@@ -79,7 +79,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Heat Abnormal"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/mati_abnormal2.png"
 description = "An artwork featuring my original character that was inspired by a song named 'Heat Abnormal'."
 image = "images/mati_abnormal2.png"
 w = "780"
@@ -87,7 +87,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Ernel"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Ernel.png"
 description = "First of the character concept arts I did for a video game about lampheads."
 image = "images/Ernel.png"
 w = "780"
@@ -95,7 +95,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Ark"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Ark.png"
 description = "Second of the character concept arts I did for a video game about lampheads."
 image = "images/Ark.png"
 w = "780"
@@ -103,7 +103,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Lucy"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Lucy.png"
 description = "Third of the character concept arts I did for a video game about lampheads."
 image = "images/Lucy.png"
 w = "780"
@@ -111,7 +111,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Mireska"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/mireska.png"
 description = "Fanart of a character from one of my favorite games."
 image = "images/mireska.png"
 w = "780"
@@ -122,7 +122,7 @@ title = "3D Modeling"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Witch Pack"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/witchrender3.png"
 description = "This is my most recent 3D modeling project, which is still in progress. It's a pack of witch-themed assets."
 image = "images/witchrender3.png"
 w = "780"
@@ -130,7 +130,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Plants"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/PlantsRender.png"
 description = "Props I made for a game project."
 image = "images/PlantsRender.png"
 w = "780"
@@ -138,7 +138,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Make Up"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/MakeUpRender.png"
 description = "More props."
 image = "images/MakeUpRender.png"
 w = "780"
@@ -146,7 +146,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Bottles"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Bottles2.jpg"
 description = ""
 image = "images/Bottles2.jpg"
 w = "780"
@@ -154,7 +154,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Original Character"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/ma3d.png"
 description = "My original character in 3D."
 image = "images/ma3d.png"
 w = "780"
@@ -162,7 +162,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Knock Knock"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/knocknock.gif"
 description = "A little animation I made with it."
 image = "images/knocknock.gif"
 w = "780"
@@ -173,7 +173,7 @@ title = "Drawings & Paintings"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Sky Kids"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/skykids.png"
 description = "Fanart of the game 'Sky: Children of the Light' in watercolor."
 image = "images/skykids.png"
 w = "780"
@@ -181,7 +181,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Masks"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Geisha.png"
 description = "This watercolor artwork draws inspiration from the motifs of Japanese geisha and oni."
 image = "images/Geisha.png"
 w = "780"
@@ -189,7 +189,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Skull"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/skull.png"
 description = "Watercolor."
 image = "images/skull.png"
 w = "780"
@@ -197,7 +197,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Midnight"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/window.png"
 description = "This is a painting of a window view done in acrylics."
 image = "images/window.png"
 w = "780"
@@ -205,7 +205,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Lover Cranes"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Cranes.png"
 description = "Pencil drawing focused on capturing form and shadows."
 image = "images/Cranes.png"
 w = "780"
@@ -213,7 +213,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Calavera"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Piper.png"
 description = "I personally really like this drawing and I'm proud of it even though it was made a long time ago."
 image = "images/Piper.png"
 w = "780"
@@ -224,7 +224,7 @@ title = "Pixel-Art"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Profile picture"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/MeIconAnim.gif"
 description = "Animated profile picture I made of myself."
 image = "images/MeIconAnim.gif"
 w = "780"
@@ -232,7 +232,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Ephemeral"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/ephe3.png"
 description = "Pixel-art with one of my original charaters."
 image = "images/ephe3.png"
 w = "780"
@@ -240,7 +240,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Mermaid"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/mermaid.gif"
 description = "Portrait pictures for the mermaid character from the game 'Stardew Valley' in the game's style."
 image = "images/mermaid.gif"
 w = "780"
@@ -248,7 +248,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Icons"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/eb.png"
 description = "Item icons for a game project."
 image = "images/eb.png"
 w = "780"
@@ -256,7 +256,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Crystal Storm"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/crystal_storm.png"
 description = ""
 image = "images/crystal_storm.png"
 w = "780"
@@ -264,7 +264,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Space Union"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/unionspacehalloween3.png"
 description = "This is a commissioned icon for a Minecraft server for Halloween."
 image = "images/unionspacehalloween3.png"
 w = "780"
@@ -274,7 +274,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Main Menu"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/menu.png"
 description = ""
 image = "images/menu.png"
 w = "780"
@@ -282,7 +282,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Bedroom"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/bedroom.png"
 description = ""
 image = "images/bedroom.png"
 w = "780"
@@ -290,7 +290,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Storage"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/storage.png"
 description = ""
 image = "images/storage.png"
 w = "780"
@@ -298,7 +298,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Open World"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/world.png"
 description = "This is from the game about lampheads. All assets made by me."
 image = "images/world.png"
 w = "780"
@@ -306,7 +306,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Lighthouse"
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/lighthouse2.png"
 description = ""
 image = "images/lighthouse2.png"
 w = "780"
@@ -317,7 +317,7 @@ title = "Photography"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/cassette2.jpg"
 description = ""
 image = "images/cassette2.jpg"
 w = "780"
@@ -325,7 +325,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/cassette.jpg"
 description = ""
 image = "images/cassette.jpg"
 w = "780"
@@ -333,7 +333,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/chiken.jpg"
 description = ""
 image = "images/chiken.jpg"
 w = "780"
@@ -341,7 +341,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/train.jpg"
 description = ""
 image = "images/train.jpg"
 w = "780"
@@ -349,7 +349,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/view.JPG"
 description = ""
 image = "images/view.JPG"
 w = "780"
@@ -357,7 +357,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/water.JPG"
 description = ""
 image = "images/water.JPG"
 w = "780"
@@ -365,7 +365,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/mountain.JPG"
 description = ""
 image = "images/mountain.JPG"
 w = "780"
@@ -373,7 +373,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/snail.JPG"
 description = ""
 image = "images/snail.JPG"
 w = "780"
@@ -381,7 +381,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/flies.jpg"
 description = ""
 image = "images/flies.jpg"
 w = "780"
@@ -389,7 +389,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/busstop2.JPG"
 description = ""
 image = "images/busstop2.JPG"
 w = "780"
@@ -397,7 +397,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/crow.jpg"
 description = ""
 image = "images/crow.jpg"
 w = "780"
@@ -408,7 +408,7 @@ title = "Photo Editing"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/sign.JPG"
 description = "Original image."
 image = "images/sign.JPG"
 w = "780"
@@ -418,7 +418,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/editV1.png"
 description = "Editing examples."
 image = "images/editV1.png"
 w = "780"
@@ -426,7 +426,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/editV2.png"
 description = ""
 image = "images/editV2.png"
 w = "780"
@@ -434,7 +434,7 @@ h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = ""
-url = "#"
+url = "https://kamilark7.github.io/portfolio.github.io/images/editV3.png"
 description = ""
 image = "images/editV3.png"
 w = "780"
@@ -442,7 +442,7 @@ h = "518"
 
 [languages.en.params.contact]
 position = "top"
-avatar = "images/SLONIZMHAHAHAHA.png"
+avatar = "images/MeIconAnim.gif"
 name = "Kamila Kadyrova"
 description = "Hello! You can call me Kamila. I'm an artist with a wide range of skills. I draw and paint (both digitally and traditionally) and work with 3D modeling, photography, game design, and much more."
 
