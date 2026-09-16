@@ -80,7 +80,7 @@ h = "518"
 [[languages.en.params.subprojects.groups.list]]
 title = "Heat Abnormal"
 url = "https://kamilark7.github.io/portfolio.github.io/images/mati_abnormal2.png"
-description = "An artwork featuring my original character that was inspired by a song named 'Heat Abnormal'."
+description = "An artwork that was inspired by a song named 'Heat Abnormal', featuring my original character."
 image = "images/mati_abnormal2.png"
 w = "780"
 h = "518"
@@ -139,16 +139,16 @@ h = "518"
 [[languages.en.params.subprojects.groups.list]]
 title = "Make Up"
 url = "https://kamilark7.github.io/portfolio.github.io/images/MakeUpRender.png"
-description = "More props."
+description = ""
 image = "images/MakeUpRender.png"
 w = "780"
 h = "518"
 
 [[languages.en.params.subprojects.groups.list]]
 title = "Bottles"
-url = "https://kamilark7.github.io/portfolio.github.io/images/Bottles2.jpg"
+url = "https://kamilark7.github.io/portfolio.github.io/images/Bottles.jpg"
 description = ""
-image = "images/Bottles2.jpg"
+image = "images/Bottles.jpg"
 w = "780"
 h = "518"
 
@@ -376,14 +376,6 @@ title = ""
 url = "https://kamilark7.github.io/portfolio.github.io/images/snail.JPG"
 description = ""
 image = "images/snail.JPG"
-w = "780"
-h = "518"
-
-[[languages.en.params.subprojects.groups.list]]
-title = ""
-url = "https://kamilark7.github.io/portfolio.github.io/images/flies.jpg"
-description = ""
-image = "images/flies.jpg"
 w = "780"
 h = "518"
 
