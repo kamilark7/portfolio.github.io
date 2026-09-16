@@ -463,47 +463,413 @@ description = "作品へのリンク集です。"
 [languages.ja.params.projects]
 
 [[languages.ja.params.projects.list]]
-title = "作品名1"
-url = "#"
-description = "作品の概要"
-image = "images/work1.jpg"
-w = "780"
-h = "518"
-
-[languages.ja.params.subprojects]
+title = "Digital Art"
 
 [[languages.ja.params.subprojects.list]]
-title = "作品2"
+title = "Cathy"
 url = "#"
-description = "作品の説明文"
-image = "images/work2.jpg"
+description = "I've seen a lot of people on the internet draw anthropomorphic animal characters and I got inspired and decided to try it myself. I really like how it turned out and I think it's one of my best works."
+image = "images/cathy.png"
 w = "780"
 h = "522"
 
-[[languages.ja.params.subprojects.list]]
-title = "作品3"
+[[languages.ja.params.subprojects.groups.list]]
+title = "Polaroids"
 url = "#"
-description = "作品の説明文"
-image = "images/work3.jpg"
+description = "This artwork is a compilation of cherished memories."
+image = "images/Polaroid.png"
 w = "780"
 h = "518"
 
-[[languages.ja.params.subprojects.list]]
-title = "作品4"
+[[languages.ja.params.subprojects.groups.list]]
+title = "New Year's"
 url = "#"
-description = "作品の説明文"
-image = "images/work4.jpg"
+description = "A self-portrait with a winter theme. First painted in grayscale, then a gradient map was applied."
+image = "images/nwm.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Milina"
+url = "#"
+description = "This is a portrait of a character from one of the games I work on."
+image = "images/milina.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Poster"
+url = "#"
+description = "A poster featuring my original character in the style of the game 'Roblox'."
+image = "images/mant1shka_poster.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Heat Abnormal"
+url = "#"
+description = "An artwork featuring my original character that was inspired by a song named 'Heat Abnormal'."
+image = "images/mati_abnormal2.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Ernel"
+url = "#"
+description = "First of the character concept arts I did for a video game about lampheads."
+image = "images/Ernel.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Ark"
+url = "#"
+description = "Second of the character concept arts I did for a video game about lampheads."
+image = "images/Ark.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Lucy"
+url = "#"
+description = "Third of the character concept arts I did for a video game about lampheads."
+image = "images/Lucy.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups]]
+title = "3D Modeling"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Witch Pack"
+url = "#"
+description = "This is my most recent 3D modeling project, which is still in progress. It's a pack of witch-themed assets."
+image = "images/witchrender3.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Plants"
+url = "#"
+description = "Props I made for a game project."
+image = "images/PlantsRender.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Make Up"
+url = "#"
+description = "More props."
+image = "images/MakeUpRender.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Bottles"
+url = "#"
+description = ""
+image = "images/Bottles2.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Original Character"
+url = "#"
+description = "My original character in 3D."
+image = "images/ma3d.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Knock Knock"
+url = "#"
+description = "A little animation I made with it."
+image = "images/knocknock.gif"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups]]
+title = "Drawings & Paintings"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Sky Kids"
+url = "#"
+description = "Fanart of the game 'Sky: Children of the Light' in watercolor."
+image = "images/skykids.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Masks"
+url = "#"
+description = "This watercolor artwork draws inspiration from the motifs of Japanese geisha and oni."
+image = "images/Geisha.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Skull"
+url = "#"
+description = "Watercolor."
+image = "images/skull.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Midnight"
+url = "#"
+description = "This is a painting of a window view done in acrylics."
+image = "images/window.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Lover Cranes"
+url = "#"
+description = "Pencil drawing focused on capturing form and shadows."
+image = "images/Cranes.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Calavera"
+url = "#"
+description = "I personally really like this drawing and I'm proud of it even though it was made a long time ago."
+image = "images/Piper.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups]]
+title = "Pixel-Art"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Profile picture"
+url = "#"
+description = "Animated profile picture I made of myself."
+image = "images/MeIconAnim.gif"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Ephemeral"
+url = "#"
+description = "Pixel-art with one of my original charaters."
+image = "images/ephe3.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Mermaid"
+url = "#"
+description = "Portrait pictures for the mermaid character from the game 'Stardew Valley' in the game's style."
+image = "images/mermaid.gif"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Icons"
+url = "#"
+description = "Item icons for a game project."
+image = "images/eb.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Crystal Storm"
+url = "#"
+description = ""
+image = "images/crystal_storm.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Space Union"
+url = "#"
+description = "This is a commissioned icon for a Minecraft server for Halloween."
+image = "images/unionspacehalloween3.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups]]
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Main Menu"
+url = "#"
+description = ""
+image = "images/menu.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Bedroom"
+url = "#"
+description = ""
+image = "images/bedroom.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Storage"
+url = "#"
+description = ""
+image = "images/storage.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Open World"
+url = "#"
+description = "This is from the game about lampheads. All assets made by me."
+image = "images/world.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = "Lighthouse"
+url = "#"
+description = ""
+image = "images/lighthouse2.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups]]
+title = "Photography"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/cassette2.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/cassette.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/chiken.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/train.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/view.JPG"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/water.JPG"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/mountain.JPG"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/snail.JPG"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/flies.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/busstop2.JPG"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/crow.jpg"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups]]
+title = "Photo Editing"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = "Original image."
+image = "images/sign.JPG"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups]]
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = "Editing examples."
+image = "images/editV1.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/editV2.png"
+w = "780"
+h = "518"
+
+[[languages.ja.params.subprojects.groups.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/editV3.png"
 w = "780"
 h = "518"
 
 [languages.ja.params.contact]
-avatar = "images/work4.jpg"
-name = "カミラ"
-description = "私は幅広いスキルを持つアーティストです。イラストや絵画（デジタルと伝統的な手法の両方）のほか、3Dモデリング、写真、ゲームデザインなど、さまざまな分野に取り組んでいます。"
+position = "top"
+avatar = "images/SLONIZMHAHAHAHA.png"
+name = "Kamila Kadyrova"
+description = "Hello! You can call me Kamila. I'm an artist with a wide range of skills. I draw and paint (both digitally and traditionally) and work with 3D modeling, photography, game design, and much more."
 
 [[languages.ja.params.contact.links]]
-label = "メール"
+label = "Email"
 url = "mailto:kamila.rk7@gmail.com"
 icon = "email"
 
 [languages.ja.params.footer]
+
