@@ -451,7 +451,7 @@ locale = "ja-JP"
 label = "日本語"
 title = "ポートフォリオ"
 copyright = "© Kamila Kadyrova"
-weight = 2
+weight = 1
 
 [languages.ja.params]
 description = ["作品へのリンク集です。", "気になる作品を見つけてください。"]
