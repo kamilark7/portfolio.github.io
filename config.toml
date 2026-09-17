@@ -436,7 +436,7 @@ h = "518"
 position = "top"
 avatar = "images/MeIconAnim.gif"
 name = "Kamila Kadyrova"
-description = "Hello! You can call me Kamila. I'm an artist with a wide range of skills. I draw and paint (both digitally and traditionally) and work with 3D modeling, photography, game design, and much more."
+description = "Hello! You can call me Kamila. I'm an artist with a wide range of skills. I draw and paint (both digitally and traditionally) and work with 3D modeling, game design, photography, and much more."
 
 [[languages.en.params.contact.links]]
 label = "Email"
